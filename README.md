@@ -1,6 +1,6 @@
-Olá, seja bem-vindo! Eu sou o Gustavo Kozlowski 
+Olá, seja bem-vindo! Eu sou o Gustavo Kozlowsk.
 
-- 🍑 Atualmente sou residente SERRATEC do curso de Full stack
+- 🍑 Atualmente estou estudando JavaScript
 - 🍍 Sinta-se livre para interagir comigo
 - 🤔 Já bebeu água hoje?
 
