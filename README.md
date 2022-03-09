@@ -1,6 +1,6 @@
 Olá, seja bem-vindo! Eu sou o Gustavo Kozlowsk.
 
-- 🍑 Atualmente estou estudando JavaScript
+- 🍑 Atualmente estou me aprofundando em JavaScript
 - 🍍 Sinta-se livre para interagir comigo
 - 🤔 Já bebeu água hoje?
 
