@@ -1,4 +1,4 @@
-Olá, seja bem-vindo! Eu sou o Gustavo Kozlowsk.
+Olá, seja bem-vindo! Eu sou o Gustavo Kozlowski(Kowalski).
 
 - 🍑 Atualmente estou me aprofundando em JavaScript
 - 🍍 Sinta-se livre para interagir comigo
