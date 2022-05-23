@@ -1,6 +1,6 @@
 Olá, seja bem-vindo! Eu sou o Gustavo Kozlowski mais conhecido como Kowalski.
 
-- 🍑 Atualmente estou me aprofundando em Reac
+- 🍑 Atualmente estou me aprofundando em React
 - 🍍 Sinta-se livre para interagir comigo
 - 🤔 Já bebeu água hoje?
 
