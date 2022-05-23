@@ -1,6 +1,6 @@
-Olá, seja bem-vindo! Eu sou o Gustavo Kozlowski(Kowalski).
+Olá, seja bem-vindo! Eu sou o Gustavo Kozlowski mais conhecido como Kowalski.
 
-- 🍑 Atualmente estou me aprofundando em JavaScript
+- 🍑 Atualmente estou me aprofundando em Reac
 - 🍍 Sinta-se livre para interagir comigo
 - 🤔 Já bebeu água hoje?
 
