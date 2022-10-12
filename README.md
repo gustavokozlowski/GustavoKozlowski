@@ -1,5 +1,5 @@
-<h1 align="center">Opah, seja bem-vindo!<br/>Meu nome é Gustavo Kozlowski, mas me chamam de Kowalski🚀</h1>
-<h3 align="left">💻 Sou apenas mais um apaixonado por desenvolvimento web & mobile.</h3>
+<h1 align="center">Opah, seja bem-vindo!🚀 <br/>Meu nome é Gustavo Kozlowski, mas pode me chamar de Kowalski</h1>
+<h3 align="center">💻 Sou apenas mais um apaixonado por desenvolvimento web & mobile.</h3>
 
 <img width="300" alt="Patolino no PC" src="https://user-images.githubusercontent.com/94485093/195425152-72354df8-9b90-4ebf-aa6f-e9e6be0cdf32.gif" />
 
