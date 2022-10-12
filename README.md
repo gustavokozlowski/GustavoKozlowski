@@ -1,13 +1,15 @@
-<h1 align="center">Opaah 👋, seja bem-vindo! Meu nome é Gustavo Kozlowski, mas, pode me chamar de Kowalski! 🧐</h1>
-<h3 align="center">Sou apenas mais um apaixonado por desenvolvimento web & mobile.</h3>
+<h1 align="center">Opah, seja bem-vindo!<br/>Meu nome é Gustavo Kozlowski, mas me chamam de Kowalski🧐</h1>
+<h3 align="left">💻 Sou apenas mais um apaixonado por desenvolvimento web & mobile.</h3>
 
 <img width="300" alt="Patolino no PC" src="https://user-images.githubusercontent.com/94485093/195425152-72354df8-9b90-4ebf-aa6f-e9e6be0cdf32.gif" />
 
+- 🔮  Se você está procurando um Front-end, veio ao **lugar certo**, bebê!
+
 - 📚  Atualmente estou aprendendo sobre **TypeScript**
 
-- 📫 Entre em contato comigo através do e-mail: **guskozlowskidev@gmail.com**
-
 - ⚡ Fato curioso sobre mim: **Eu amo cozinhar, sou tipo master chefe! 👨🏾‍🍳**
+
+- 📫 E-mail para contato: **guskozlowskidev@gmail.com**
 
 <h3 align="left">Podemos nos conectar nas seguintes redes sociais:</h3>
 <p align="left">
@@ -24,3 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavokozlowski&" alt="gustavokozlowski" /></p>
 
+<h3 align="left">Quer saber mais sobre mim? Arrasta pra cima ⬆</h3>
