@@ -9,7 +9,7 @@
   <li>🔮 Se você está procurando um Front-end, veio ao **lugar certo**, bebê!</li>
   <li>📚  Atualmente estou aprendendo sobre **TypeScript**</li>
   <li>⚡ Fato curioso sobre mim: **Eu amo cozinhar, sou tipo master chefe! 👨🏾‍🍳**</li>
-  <li>📫 E-mail para contato: **guskozlowskidev@gmail.com**</li>
+  <li>📫 E-mail para contato: *guskozlowskidev@gmail.com*</li>
 </ol>
 
 
